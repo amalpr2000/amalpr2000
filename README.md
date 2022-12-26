@@ -3,11 +3,13 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Amal P R</h1>
+
+
+<h1 align="center"><b>Hi , I'm Amal P R </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 
-<h3 align="center">I'm a Flutter Developer, from India.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1080&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
 
 ###
 
@@ -17,9 +19,10 @@
 
 <p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website https://amalpr2000.github.io/PersonalWebsite/</p>
 
+
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">    I code with</h2>
 
 ###
 
@@ -39,18 +42,18 @@
 
 ###
 
-<h2 align="left">Github</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=amalpr2000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=amalpr2000" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=amalpr2000" height="150" alt=""  />
 </div>
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Connect with me</h2>
 
 ###
 
