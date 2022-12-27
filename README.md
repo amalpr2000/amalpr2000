@@ -9,7 +9,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=960&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
 
 ###
 
