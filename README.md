@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://amalpr2000.github.io/PersonalWebsite/">Visit</a></p>
+<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://amalpr2000.github.io/PersonalWebsite/" target="_blank">Visit</a></p>
 
 
 ###
