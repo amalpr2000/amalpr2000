@@ -9,7 +9,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1080&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=960&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website https://amalpr2000.github.io/PersonalWebsite/</p>
+<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://amalpr2000.github.io/PersonalWebsite/">Visit</a></p>
 
 
 ###
